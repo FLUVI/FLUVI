@@ -8,9 +8,9 @@ def XD():
    print("Instalado correctamente")
    
    
-  while true:
-     print("que quieres hacer?")
-     opcion = input("\n-1. instalar sherlock\n-2. salir\n")
+while true:
+  print("que quieres hacer?")
+  opcion = input("\n-1. instalar sherlock\n-2. salir\n")
   
   if opcion == '1':
       XD()
